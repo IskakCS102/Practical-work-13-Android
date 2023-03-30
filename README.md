@@ -2,5 +2,5 @@
 <br>
 ![1](https://user-images.githubusercontent.com/90903338/227489867-f29bf128-ce06-4fe5-9873-81a9e6677b34.png) <br>
 Окно самого приложение показывает координаты время и температуру к данному времени, и качевства воздуха. <br>
-![2](https://user-images.githubusercontent.com/90903338/227489899-3a2bc576-6617-4104-b034-c88144d1e587.png) <br>
+![2](https://user-images.githubusercontent.com/90903338/228784948-6d5f6a76-3b88-41a2-84f9-6a0f5e4b56e7.png)<br>
 Виджет данной программы.
